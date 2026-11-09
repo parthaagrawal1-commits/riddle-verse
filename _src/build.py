@@ -151,12 +151,11 @@ def md(text):
 def inline(s): return re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", esc(s))
 
 HTACCESS = r"""RewriteEngine On
-# canonical host + https, but never touch Hostinger preview hosts or local
+# canonical host only (https is enforced by Hostinger's Force HTTPS once SSL is active); never touch preview hosts
 RewriteCond %{HTTP_HOST} !hostingersite[.]com$ [NC]
 RewriteCond %{HTTP_HOST} !^(localhost|127[.]0[.]0[.]1)
-RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} !^riddleverse[.]com$ [NC]
-RewriteRule ^ https://riddleverse.com%{REQUEST_URI} [R=301,L]
+RewriteRule ^ http://riddleverse.com%{REQUEST_URI} [R=301,L]
 RedirectMatch 404 ^/_src(/|$)
 RedirectMatch 404 ^/[.]git
 RedirectMatch 404 ^/README[.]md$
