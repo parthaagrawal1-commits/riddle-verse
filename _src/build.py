@@ -37,7 +37,7 @@ h1{font-size:clamp(30px,6vw,48px);margin:.2em 0 .3em}h2{font-size:clamp(22px,4vw
 .wrap{max-width:var(--max);margin:0 auto;padding:0 18px}
 header{padding:14px 0 6px}header .wrap{display:flex;align-items:center;justify-content:space-between;gap:10px}
 .logo{font-family:Fraunces,Georgia,serif;font-weight:800;font-size:26px;color:var(--ink);letter-spacing:-.02em}.logo b{color:var(--acc)}
-nav a{color:var(--ink2);font-size:14px;margin-left:12px;font-weight:500}
+nav{white-space:nowrap}nav a{color:var(--ink2);font-size:14px;margin-left:12px;font-weight:500}
 .topbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between;margin:6px 0 16px;font-size:14px;color:var(--ink2)}.topbar b{color:var(--acc)}
 .chip{background:var(--bg2);border:1px solid var(--line);border-radius:999px;padding:5px 11px}
 .tabs{display:flex;gap:6px;margin:0 0 14px}.tab{flex:1;background:var(--bg2);border:1px solid var(--line);color:var(--ink2);padding:12px 8px;border-radius:12px;font-size:15px;font-weight:600;cursor:pointer}.tab.on{background:var(--acc);color:#1a1400;border-color:var(--acc)}
@@ -83,7 +83,7 @@ def layout(title, desc, path, body, jsonld=None, noindex=False, og_type="website
 <meta property="og:type" content="{og_type}"><meta property="og:site_name" content="{BRAND}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{ROOT}{path}"><meta property="og:image" content="{ROOT}/og.png"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/icon-192.png"><link rel="manifest" href="/manifest.webmanifest">{FONTS}
 <link rel="stylesheet" href="/assets/site.css?v={V}">{"".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in ld)}{CFG.get("analytics_html", "")}</head>
-<body><header><div class="wrap"><a class="logo" href="/">Riddle<b>verse</b></a><nav><a href="/archive/">Archive</a><a href="/riddles/">Riddles</a><a href="/how-to-play/">How to play</a></nav></div></header>
+<body><header><div class="wrap"><a class="logo" href="/">Riddle<b>verse</b></a><nav><a href="/archive/">Archive</a><a href="/riddles/">Riddles</a><a href="/how-to-play/">Help</a></nav></div></header>
 <main><div class="wrap">{body}</div></main>
 <footer><div class="wrap"><a href="/">Today</a><a href="/archive/">Archive</a><a href="/riddles/">Riddle collections</a><a href="/how-to-play/">How to play</a><a href="/about/">About</a><a href="/privacy/">Privacy</a><a href="/feed.xml">RSS</a><div style="margin-top:10px">One world, one puzzle. New riddles for everyone at 00:00 UTC. &copy; {TODAY.year} riddleverse.com</div></div></footer>
 <script src="/assets/app.js?v={V}" defer></script></body></html>"""

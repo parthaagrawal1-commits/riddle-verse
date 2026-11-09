@@ -128,7 +128,8 @@
     if (!STATS || !STATS[cur]) { el.innerHTML = ''; return; }
     var s = STATS[cur], pct = s.played ? Math.round(100 * s.solved / s.played) : 0;
     var h = '<div class="card stats"><div class="srow"><div><b>' + s.played.toLocaleString() + '</b><small>played today</small></div><div><b>' + pct + '%</b><small>solved it</small></div><div><b>' + (s.avg_ms ? fmt(s.avg_ms) : '—') + '</b><small>average time</small></div><div><b>' + (s.hints_avg !== null ? s.hints_avg : '—') + '</b><small>hints on average</small></div></div>';
-    if (s.top && s.top.length) h += '<h3>Today\'s fastest (fewest hints first)</h3><ol class="lb">' + s.top.map(function (t) { return '<li><span>' + esc(t.name) + '</span><span>' + '⭐'.repeat(Math.max(0, 3 - t.hints)) + ' ' + fmt(t.ms) + '</span></li>'; }).join('') + '</ol>';
+    if (s.top && s.top.length) h += '<h3>Today\'s leaderboard (fewest hints, then fastest)</h3><ol class="lb">' + s.top.map(function (t) { return '<li><span>' + esc(t.name) + '</span><span>' + '⭐'.repeat(Math.max(0, 3 - t.hints)) + ' ' + fmt(t.ms) + '</span></li>'; }).join('') + '</ol>';
+    else h += '<h3>Today\'s leaderboard</h3><p class="meta">🏆 Nobody on it yet. Solve the ' + LABEL[cur] + ' and add your name to claim the top spot for the whole world.</p>';
     h += '<p class="meta">' + (STATS.players_total || 0).toLocaleString() + (STATS.players_total === 1 ? ' person has' : ' people have') + ' played Riddleverse. New puzzles for everyone in <b id="cd3"></b>.</p></div>';
     el.innerHTML = h; setInterval(function () { var c = $('#cd3'); if (c && $('#countdown')) c.textContent = $('#countdown').textContent; }, 1000);
   }
