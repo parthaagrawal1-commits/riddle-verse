@@ -39,7 +39,8 @@ header{padding:14px 0 6px}header .wrap{display:flex;align-items:center;justify-c
 .logo{font-family:Fraunces,Georgia,serif;font-weight:800;font-size:26px;color:var(--ink);letter-spacing:-.02em}.logo b{color:var(--acc)}
 nav{white-space:nowrap}nav a{color:var(--ink2);font-size:14px;margin-left:12px;font-weight:500}
 .topbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between;margin:6px 0 16px;font-size:14px;color:var(--ink2)}.topbar b{color:var(--acc)}
-.chip{background:var(--bg2);border:1px solid var(--line);border-radius:999px;padding:5px 11px}
+.chip{background:var(--bg2);border:1px solid var(--line);border-radius:999px;padding:5px 11px}button.namechip{color:var(--acc);cursor:pointer;font:inherit;font-size:14px}
+.nameform{display:flex;gap:8px;margin:-6px 0 14px}.nameform input{flex:1;padding:11px 14px;font-size:16px;border-radius:12px;border:2px solid var(--line);background:#0f0d22;color:var(--ink)}
 .tabs{display:flex;gap:6px;margin:0 0 14px}.tab{flex:1;background:var(--bg2);border:1px solid var(--line);color:var(--ink2);padding:12px 8px;border-radius:12px;font-size:15px;font-weight:600;cursor:pointer}.tab.on{background:var(--acc);color:#1a1400;border-color:var(--acc)}
 .card{background:var(--bg2);border:1px solid var(--line);border-radius:18px;padding:20px}
 #game{background:var(--bg2);border:1px solid var(--line);border-radius:18px;padding:22px 20px}
@@ -90,7 +91,7 @@ def layout(title, desc, path, body, jsonld=None, noindex=False, og_type="website
 
 def play_body(date=None, archive=False):
     attrs = (f' data-date="{date}"' if date else "") + (' data-archive="1"' if archive else "")
-    top = '<div class="topbar"><span class="chip">🌍 Same puzzles for the whole world · new drop in <b id="countdown">—</b></span><span class="chip">🔥 Streak: <b id="streak">0 days</b></span></div>'
+    top = '<div class="topbar"><span class="chip">🌍 Same puzzles for the whole world · new drop in <b id="countdown">—</b></span><span class="chip">🔥 Streak: <b id="streak">0 days</b></span><button class="chip namechip" id="nameChip" type="button">👤 Set your name</button></div><form id="nameForm" class="nameform" style="display:none"><input id="nameTop" maxlength="16" placeholder="Name for the leaderboard (optional)" aria-label="Your name"><button class="btn" type="submit">Save</button></form>'
     return top + f'<div id="app"{attrs}><div class="card">Loading today\'s puzzles…</div></div>'
 
 def puzzle_json(d):

@@ -29,6 +29,11 @@
   function save() { LS.s('day_' + DATE, STATE); }
   function gs(g) { if (!STATE[g]) STATE[g] = { status: 'new', ms: 0, hints: 0, guesses: 0, start: 0, step: 0, done: [] }; return STATE[g]; }
 
+  // ---------- name chip ----------
+  (function () { var chip = $('#nameChip'), f = $('#nameForm'), inp = $('#nameTop'); if (!chip || !f) return;
+    function paint() { chip.textContent = NAME ? ('👤 Playing as ' + NAME) : '👤 Set your name'; }
+    paint(); chip.onclick = function () { f.style.display = f.style.display === 'none' ? 'flex' : 'none'; if (f.style.display === 'flex') { inp.value = NAME; inp.focus(); } };
+    f.onsubmit = function (e) { e.preventDefault(); NAME = inp.value.trim().slice(0, 16); LS.s('name', NAME); paint(); f.style.display = 'none'; GAMES.forEach(function (x) { if (gs(x).status !== 'new') post(x); }); toast(NAME ? 'Saved. You\'re on the board as ' + NAME : 'Name cleared'); }; })();
   // ---------- countdown ----------
   function tick() { var el = $('#countdown'); if (!el) return; var ms = nextDrop() - Date.now(); if (ms <= 0) { el.textContent = 'New puzzles are live — refresh'; return; } var h = Math.floor(ms / 3.6e6), m = Math.floor(ms % 3.6e6 / 6e4), s = Math.floor(ms % 6e4 / 1000); el.textContent = pad(h) + ':' + pad(m) + ':' + pad(s); }
   setInterval(tick, 1000); tick();
