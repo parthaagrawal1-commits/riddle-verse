@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /p/
+Sitemap: https://riddleverse.com/sitemap.xml

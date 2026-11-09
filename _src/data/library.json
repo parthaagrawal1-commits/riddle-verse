@@ -1,0 +1,580 @@
+[
+ {
+  "q": "What has hands but can't clap?",
+  "a": [
+   "a clock",
+   "clock"
+  ],
+  "category": "kids",
+  "difficulty": 1
+ },
+ {
+  "q": "What has a face and two hands but no arms or legs?",
+  "a": [
+   "a clock",
+   "clock"
+  ],
+  "category": "kids",
+  "difficulty": 1
+ },
+ {
+  "q": "What has to be broken before you can use it?",
+  "a": [
+   "an egg",
+   "egg"
+  ],
+  "category": "kids",
+  "difficulty": 1
+ },
+ {
+  "q": "What has a thumb and four fingers but isn't alive?",
+  "a": [
+   "a glove",
+   "glove"
+  ],
+  "category": "kids",
+  "difficulty": 1
+ },
+ {
+  "q": "What kind of room has no doors or windows?",
+  "a": [
+   "a mushroom",
+   "mushroom"
+  ],
+  "category": "wordplay",
+  "difficulty": 2
+ },
+ {
+  "q": "What begins with T, ends with T, and has T in it?",
+  "a": [
+   "a teapot",
+   "teapot"
+  ],
+  "category": "wordplay",
+  "difficulty": 2
+ },
+ {
+  "q": "What has words but never speaks?",
+  "a": [
+   "a book",
+   "book"
+  ],
+  "category": "kids",
+  "difficulty": 1
+ },
+ {
+  "q": "What can you catch but not throw?",
+  "a": [
+   "a cold",
+   "cold"
+  ],
+  "category": "wordplay",
+  "difficulty": 2
+ },
+ {
+  "q": "What has legs but doesn't walk?",
+  "a": [
+   "a chair",
+   "a table",
+   "chair",
+   "table"
+  ],
+  "category": "kids",
+  "difficulty": 1
+ },
+ {
+  "q": "What invention lets you look right through a wall?",
+  "a": [
+   "a window",
+   "window"
+  ],
+  "category": "kids",
+  "difficulty": 1
+ },
+ {
+  "q": "I'm light as a feather, yet the strongest person can't hold me for five minutes. What am I?",
+  "a": [
+   "breath",
+   "your breath"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ },
+ {
+  "q": "What can run but never walks, has a mouth but never talks, has a bed but never sleeps?",
+  "a": [
+   "a river",
+   "river"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ },
+ {
+  "q": "What goes through cities and fields but never moves?",
+  "a": [
+   "a road",
+   "road",
+   "roads"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ },
+ {
+  "q": "What has a bottom at the top?",
+  "a": [
+   "leg",
+   "legs",
+   "your legs"
+  ],
+  "category": "wordplay",
+  "difficulty": 3
+ },
+ {
+  "q": "What five-letter word becomes shorter when you add two letters?",
+  "a": [
+   "short"
+  ],
+  "category": "wordplay",
+  "difficulty": 3
+ },
+ {
+  "q": "What is full of holes but still holds water?",
+  "a": [
+   "a sponge",
+   "sponge"
+  ],
+  "category": "classic",
+  "difficulty": 1
+ },
+ {
+  "q": "What is always in front of you but can't be seen?",
+  "a": [
+   "future",
+   "the future"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ },
+ {
+  "q": "What can you keep after giving it to someone?",
+  "a": [
+   "a promise",
+   "promise",
+   "word",
+   "your word"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ },
+ {
+  "q": "What month of the year has 28 days?",
+  "a": [
+   "all",
+   "all of them",
+   "every month"
+  ],
+  "category": "wordplay",
+  "difficulty": 2
+ },
+ {
+  "q": "If there are three apples and you take away two, how many do you have?",
+  "a": [
+   "2",
+   "two"
+  ],
+  "category": "math",
+  "difficulty": 2
+ },
+ {
+  "q": "How many months have 30 days?",
+  "a": [
+   "11",
+   "all but february",
+   "eleven"
+  ],
+  "category": "math",
+  "difficulty": 2
+ },
+ {
+  "q": "I am a three-digit number. My tens digit is five more than my ones digit, and my hundreds digit is eight less than my tens digit. What number am I?",
+  "a": [
+   "194"
+  ],
+  "category": "math",
+  "difficulty": 4
+ },
+ {
+  "q": "What three positive numbers give the same result when multiplied and added together?",
+  "a": [
+   "1 2 3",
+   "1 2 and 3",
+   "1, 2, 3",
+   "one two three"
+  ],
+  "category": "math",
+  "difficulty": 3
+ },
+ {
+  "q": "A farmer has 17 sheep and all but 9 die. How many are left?",
+  "a": [
+   "9",
+   "nine"
+  ],
+  "category": "math",
+  "difficulty": 2
+ },
+ {
+  "q": "Using only addition, how can you add eight 8s to get 1,000?",
+  "a": [
+   "888 + 88 + 8 + 8 + 8",
+   "888+88+8+8+8"
+  ],
+  "category": "math",
+  "difficulty": 5
+ },
+ {
+  "q": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+  "a": [
+   "letter m",
+   "m",
+   "the letter m"
+  ],
+  "category": "wordplay",
+  "difficulty": 3
+ },
+ {
+  "q": "I have cities but no people, forests but no trees, and rivers but no water. What am I?",
+  "a": [
+   "a map",
+   "map"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ },
+ {
+  "q": "What disappears as soon as you say its name?",
+  "a": [
+   "silence"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ },
+ {
+  "q": "What can you hold in your right hand but never in your left?",
+  "a": [
+   "left hand",
+   "my left hand",
+   "your left hand"
+  ],
+  "category": "logic",
+  "difficulty": 3
+ },
+ {
+  "q": "What is so fragile that saying its name breaks it?",
+  "a": [
+   "silence"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ },
+ {
+  "q": "A man is pushing his car along a road when he comes to a hotel. He shouts, 'I'm bankrupt!' Why?",
+  "a": [
+   "he is playing monopoly",
+   "it's a game of monopoly",
+   "monopoly",
+   "playing monopoly"
+  ],
+  "category": "logic",
+  "difficulty": 4
+ },
+ {
+  "q": "Which is heavier, a kilogram of feathers or a kilogram of bricks?",
+  "a": [
+   "equal",
+   "neither",
+   "same",
+   "the same",
+   "they weigh the same"
+  ],
+  "category": "math",
+  "difficulty": 1
+ },
+ {
+  "q": "What word is spelled incorrectly in every dictionary?",
+  "a": [
+   "incorrectly"
+  ],
+  "category": "wordplay",
+  "difficulty": 2
+ },
+ {
+  "q": "What has 13 hearts but no other organs?",
+  "a": [
+   "a deck of cards",
+   "cards",
+   "deck of cards",
+   "pack of cards"
+  ],
+  "category": "logic",
+  "difficulty": 3
+ },
+ {
+  "q": "What goes up and down but never moves?",
+  "a": [
+   "a staircase",
+   "staircase",
+   "stairs",
+   "the stairs"
+  ],
+  "category": "kids",
+  "difficulty": 1
+ },
+ {
+  "q": "What has a ring but no finger?",
+  "a": [
+   "a phone",
+   "a telephone",
+   "phone",
+   "telephone"
+  ],
+  "category": "kids",
+  "difficulty": 1
+ },
+ {
+  "q": "Where does today come before yesterday?",
+  "a": [
+   "a dictionary",
+   "dictionary",
+   "in the dictionary",
+   "the dictionary"
+  ],
+  "category": "wordplay",
+  "difficulty": 3
+ },
+ {
+  "q": "What is at the end of a rainbow?",
+  "a": [
+   "letter w",
+   "the letter w",
+   "w"
+  ],
+  "category": "wordplay",
+  "difficulty": 2
+ },
+ {
+  "q": "What has four wheels and flies?",
+  "a": [
+   "a garbage truck",
+   "bin lorry",
+   "garbage truck",
+   "rubbish truck"
+  ],
+  "category": "wordplay",
+  "difficulty": 3
+ },
+ {
+  "q": "What kind of coat is best put on wet?",
+  "a": [
+   "a coat of paint",
+   "coat of paint",
+   "paint"
+  ],
+  "category": "wordplay",
+  "difficulty": 3
+ },
+ {
+  "q": "What can be measured but has no length, width or height?",
+  "a": [
+   "temperature",
+   "time"
+  ],
+  "category": "classic",
+  "difficulty": 3
+ },
+ {
+  "q": "What do you throw out when you want to use it, but take in when you don't?",
+  "a": [
+   "an anchor",
+   "anchor"
+  ],
+  "category": "classic",
+  "difficulty": 3
+ },
+ {
+  "q": "I follow you all day long, but when night comes I disappear. What am I?",
+  "a": [
+   "a shadow",
+   "shadow",
+   "your shadow"
+  ],
+  "category": "kids",
+  "difficulty": 1
+ },
+ {
+  "q": "You walk into a room with a match, a candle, a lamp and a fireplace. What do you light first?",
+  "a": [
+   "match",
+   "the match"
+  ],
+  "category": "logic",
+  "difficulty": 2
+ },
+ {
+  "q": "What has a spine but no bones?",
+  "a": [
+   "a book",
+   "book"
+  ],
+  "category": "kids",
+  "difficulty": 2
+ },
+ {
+  "q": "What gets bigger the more you take away from it?",
+  "a": [
+   "a hole",
+   "hole"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ },
+ {
+  "q": "What can go up a chimney down, but can't go down a chimney up?",
+  "a": [
+   "an umbrella",
+   "umbrella"
+  ],
+  "category": "logic",
+  "difficulty": 4
+ },
+ {
+  "q": "Mary's father has five daughters: Nana, Nene, Nini, Nono. What is the fifth daughter's name?",
+  "a": [
+   "mary"
+  ],
+  "category": "logic",
+  "difficulty": 2
+ },
+ {
+  "q": "What has one eye but can't see, and is worse than a wind?",
+  "a": [
+   "a hurricane",
+   "cyclone",
+   "hurricane"
+  ],
+  "category": "classic",
+  "difficulty": 3
+ },
+ {
+  "q": "I'm found in socks, scarves and mittens, and often in the paws of playful kittens. What am I?",
+  "a": [
+   "wool",
+   "yarn"
+  ],
+  "category": "kids",
+  "difficulty": 2
+ },
+ {
+  "q": "What tastes better than it smells?",
+  "a": [
+   "a tongue",
+   "tongue",
+   "your tongue"
+  ],
+  "category": "wordplay",
+  "difficulty": 3
+ },
+ {
+  "q": "What has a head, a tail, is brown, and has no legs?",
+  "a": [
+   "a coin",
+   "a penny",
+   "coin",
+   "penny"
+  ],
+  "category": "kids",
+  "difficulty": 2
+ },
+ {
+  "q": "Which word in the dictionary is always spelled wrong?",
+  "a": [
+   "wrong"
+  ],
+  "category": "wordplay",
+  "difficulty": 2
+ },
+ {
+  "q": "How many letters are in the alphabet?",
+  "a": [
+   "11",
+   "eleven"
+  ],
+  "category": "wordplay",
+  "difficulty": 3
+ },
+ {
+  "q": "What is black when it's clean and white when it's dirty?",
+  "a": [
+   "a blackboard",
+   "a chalkboard",
+   "blackboard",
+   "chalkboard"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ },
+ {
+  "q": "What has many needles but doesn't sew?",
+  "a": [
+   "a cactus",
+   "a christmas tree",
+   "a pine tree",
+   "cactus",
+   "christmas tree",
+   "pine tree"
+  ],
+  "category": "kids",
+  "difficulty": 1
+ },
+ {
+  "q": "I am taken from a mine and shut in a wooden case, from which I am never released, and yet I am used by almost everyone. What am I?",
+  "a": [
+   "graphite",
+   "lead",
+   "pencil",
+   "pencil lead"
+  ],
+  "category": "classic",
+  "difficulty": 3
+ },
+ {
+  "q": "What is cut on a table but never eaten?",
+  "a": [
+   "a deck of cards",
+   "cards",
+   "deck of cards"
+  ],
+  "category": "logic",
+  "difficulty": 3
+ },
+ {
+  "q": "What is always coming but never arrives?",
+  "a": [
+   "tomorrow"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ },
+ {
+  "q": "What can you break, even if you never pick it up or touch it?",
+  "a": [
+   "a promise",
+   "a record",
+   "promise",
+   "record",
+   "silence"
+  ],
+  "category": "classic",
+  "difficulty": 2
+ }
+]

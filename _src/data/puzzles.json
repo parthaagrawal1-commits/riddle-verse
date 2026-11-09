@@ -1,0 +1,2285 @@
+{
+ "2026-11-09": {
+  "n": 1,
+  "riddle": {
+   "q": "I have keys but open no locks. I have space but no room. You can enter, but you can't go inside. What am I?",
+   "a": [
+    "a keyboard",
+    "computer keyboard",
+    "keyboard"
+   ],
+   "display": "keyboard",
+   "hints": [
+    "I'm something you probably touched in the last hour.",
+    "Every word on this screen passed through me.",
+    "QWERTY."
+   ],
+   "why": "A keyboard has keys, a space bar and an Enter key, and none of them are what they sound like.",
+   "trivia": "The QWERTY layout dates to 1873 and was designed, in part, to keep typewriter arms from jamming.",
+   "difficulty": 2,
+   "category": "wordplay"
+  },
+  "rebus": {
+   "q": "🐝 + 🍃",
+   "a": [
+    "be leaf",
+    "believe"
+   ],
+   "display": "believe",
+   "hints": [
+    "Say the pictures out loud.",
+    "Bee… leaf…",
+    "I do."
+   ],
+   "why": "Bee + leaf = 'believe'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "The star we orbit",
+     "a": [
+      "sun"
+     ]
+    },
+    {
+     "q": "Earth's natural satellite",
+     "a": [
+      "moon"
+     ]
+    },
+    {
+     "q": "Frozen water",
+     "a": [
+      "ice"
+     ]
+    },
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    }
+   ],
+   "final": [
+    "smile"
+   ],
+   "why": "The first letters of the five answers spell SMILE."
+  }
+ },
+ "2026-11-10": {
+  "n": 2,
+  "riddle": {
+   "q": "The more you take, the more you leave behind. What am I?",
+   "a": [
+    "footprints",
+    "footstep",
+    "footsteps",
+    "steps"
+   ],
+   "display": "footsteps",
+   "hints": [
+    "Think about walking.",
+    "Each one you take leaves a mark.",
+    "Sand on a beach shows them clearly."
+   ],
+   "why": "Every step you take leaves a footprint behind you.",
+   "trivia": "A typical person takes around 100 million steps in a lifetime.",
+   "difficulty": 1,
+   "category": "classic"
+  },
+  "rebus": {
+   "q": "🌧️ + 🏹",
+   "a": [
+    "rain bow",
+    "rainbow"
+   ],
+   "display": "rainbow",
+   "hints": [
+    "Rain plus something you shoot with.",
+    "After a storm.",
+    "Seven colours."
+   ],
+   "why": "Rain + bow = 'rainbow'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Pet that barks",
+     "a": [
+      "dog"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Earth's natural satellite",
+     "a": [
+      "moon"
+     ]
+    }
+   ],
+   "final": [
+    "dream"
+   ],
+   "why": "The first letters of the five answers spell DREAM."
+  }
+ },
+ "2026-11-11": {
+  "n": 3,
+  "riddle": {
+   "q": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+   "a": [
+    "an echo",
+    "echo"
+   ],
+   "display": "echo",
+   "hints": [
+    "You might hear me in a canyon.",
+    "I repeat what you say.",
+    "Hello… hello… hello…"
+   ],
+   "why": "An echo repeats sound without a mouth or ears, and travels on the air.",
+   "trivia": "Echo was a mountain nymph in Greek myth, cursed to only repeat the last words spoken to her.",
+   "difficulty": 2,
+   "category": "classic"
+  },
+  "rebus": {
+   "q": "🚗 + 🐧",
+   "a": [
+    "car penguin",
+    "car pet",
+    "carpenguin",
+    "carpet"
+   ],
+   "display": "carpenguin",
+   "hints": [
+    "Car + the first syllable of the bird.",
+    "Something on the floor.",
+    "Car-pe(nguin)."
+   ],
+   "why": "Car + pen(guin) = 'carpet'.",
+   "difficulty": 3
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "Frozen water",
+     "a": [
+      "ice"
+     ]
+    },
+    {
+     "q": "Precious yellow metal",
+     "a": [
+      "gold"
+     ]
+    },
+    {
+     "q": "Where the heart is, they say",
+     "a": [
+      "home"
+     ]
+    },
+    {
+     "q": "Tall plant with a trunk",
+     "a": [
+      "tree"
+     ]
+    }
+   ],
+   "final": [
+    "light"
+   ],
+   "why": "The first letters of the five answers spell LIGHT."
+  }
+ },
+ "2026-11-12": {
+  "n": 4,
+  "riddle": {
+   "q": "What has cities but no houses, forests but no trees, and water but no fish?",
+   "a": [
+    "a map",
+    "map",
+    "maps"
+   ],
+   "display": "map",
+   "hints": [
+    "I fold.",
+    "You'd use me on a road trip, or your phone replaces me.",
+    "I show you where you are."
+   ],
+   "why": "A map shows cities, forests and water without containing any of them.",
+   "trivia": "The oldest known map is a Babylonian clay tablet from around 600 BC.",
+   "difficulty": 2,
+   "category": "classic"
+  },
+  "rebus": {
+   "q": "🔥 + 🧯 ➡️ 🫖",
+   "a": [
+    "fire kettle",
+    "kettle",
+    "put the kettle on"
+   ],
+   "display": "fire kettle",
+   "hints": [
+    "Think British.",
+    "What you do before tea.",
+    "Put the… on."
+   ],
+   "why": "Fire out, then put the kettle on.",
+   "difficulty": 3
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Yellow fruit monkeys love",
+     "a": [
+      "banana"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Red day in February",
+     "a": [
+      "valentine",
+      "valentines"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    }
+   ],
+   "final": [
+    "brave"
+   ],
+   "why": "The first letters of the five answers spell BRAVE."
+  }
+ },
+ "2026-11-13": {
+  "n": 5,
+  "riddle": {
+   "q": "What can travel around the world while staying in a corner?",
+   "a": [
+    "a postage stamp",
+    "a stamp",
+    "postage stamp",
+    "stamp"
+   ],
+   "display": "stamp",
+   "hints": [
+    "Think about mail.",
+    "I'm small, square and sticky.",
+    "I live on the top right of an envelope."
+   ],
+   "why": "A postage stamp sits in the corner of an envelope and travels anywhere the letter goes.",
+   "trivia": "The first adhesive postage stamp, the Penny Black, was issued in Britain in 1840.",
+   "difficulty": 2,
+   "category": "classic"
+  },
+  "rebus": {
+   "q": "👁️ + 🌊",
+   "a": [
+    "eye sea",
+    "eyesea",
+    "i see",
+    "icy"
+   ],
+   "display": "eyesea",
+   "hints": [
+    "Say it out loud.",
+    "'I understand'.",
+    "Eye… sea…"
+   ],
+   "why": "Eye + sea = 'I see'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "Pet that purrs",
+     "a": [
+      "cat"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Opposite of day",
+     "a": [
+      "night"
+     ]
+    }
+   ],
+   "final": [
+    "ocean"
+   ],
+   "why": "The first letters of the five answers spell OCEAN."
+  }
+ },
+ "2026-11-14": {
+  "n": 6,
+  "riddle": {
+   "q": "I'm tall when I'm young and short when I'm old. What am I?",
+   "a": [
+    "a candle",
+    "candle",
+    "candles"
+   ],
+   "display": "candle",
+   "hints": [
+    "I give light.",
+    "I melt.",
+    "You blow me out on your birthday."
+   ],
+   "why": "A candle burns down and gets shorter as it ages.",
+   "trivia": "Before electric light, a single candle was the standard unit of brightness, hence 'candlepower'.",
+   "difficulty": 1,
+   "category": "kids"
+  },
+  "rebus": {
+   "q": "🧊 + 🧊 + 🧊 ➡️ ⛸️",
+   "a": [
+    "ice skate",
+    "ice skates",
+    "ice skating",
+    "skating"
+   ],
+   "display": "ice skating",
+   "hints": [
+    "Lots of ice, then…",
+    "A winter sport.",
+    "Blades on your feet."
+   ],
+   "why": "Ice, ice, ice, then skates: ice skating.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Earth's natural satellite",
+     "a": [
+      "moon"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Precious yellow metal",
+     "a": [
+      "gold"
+     ]
+    },
+    {
+     "q": "Frozen water",
+     "a": [
+      "ice"
+     ]
+    },
+    {
+     "q": "Pet that purrs",
+     "a": [
+      "cat"
+     ]
+    }
+   ],
+   "final": [
+    "magic"
+   ],
+   "why": "The first letters of the five answers spell MAGIC."
+  }
+ },
+ "2026-11-15": {
+  "n": 7,
+  "riddle": {
+   "q": "What gets wetter the more it dries?",
+   "a": [
+    "a towel",
+    "towel",
+    "towels"
+   ],
+   "display": "towel",
+   "hints": [
+    "I hang in a bathroom.",
+    "I'm fluffy.",
+    "You use me after a shower."
+   ],
+   "why": "A towel gets wetter as it dries you off.",
+   "trivia": "Turkish towels from Bursa were the first to use looped pile, in the 18th century.",
+   "difficulty": 1,
+   "category": "kids"
+  },
+  "rebus": {
+   "q": "🌞 + 🌻",
+   "a": [
+    "sun flower",
+    "sunflower"
+   ],
+   "display": "sunflower",
+   "hints": [
+    "Say both.",
+    "It follows the sun.",
+    "Yellow petals."
+   ],
+   "why": "Sun + flower = 'sunflower'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "The star we orbit",
+     "a": [
+      "sun"
+     ]
+    },
+    {
+     "q": "Tall plant with a trunk",
+     "a": [
+      "tree"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    },
+    {
+     "q": "Earth's natural satellite",
+     "a": [
+      "moon"
+     ]
+    }
+   ],
+   "final": [
+    "storm"
+   ],
+   "why": "The first letters of the five answers spell STORM."
+  }
+ },
+ "2026-11-16": {
+  "n": 8,
+  "riddle": {
+   "q": "I have a head and a tail but no body. What am I?",
+   "a": [
+    "a coin",
+    "coin",
+    "coins"
+   ],
+   "display": "coin",
+   "hints": [
+    "I'm metal.",
+    "You flip me to decide things.",
+    "Heads or tails?"
+   ],
+   "why": "A coin has a heads side and a tails side and nothing else.",
+   "trivia": "The phrase 'heads or tails' goes back to Roman coins, which showed a ruler's head and a ship's stern.",
+   "difficulty": 1,
+   "category": "kids"
+  },
+  "rebus": {
+   "q": "📚 + 🐛",
+   "a": [
+    "book worm",
+    "bookworm"
+   ],
+   "display": "bookworm",
+   "hints": [
+    "Someone who reads a lot.",
+    "Book + …",
+    "A nickname for a keen reader."
+   ],
+   "why": "Book + worm = 'bookworm'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Large flightless bird in a tuxedo",
+     "a": [
+      "penguin"
+     ]
+    },
+    {
+     "q": "Frozen water",
+     "a": [
+      "ice"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Opposite of day",
+     "a": [
+      "night"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    }
+   ],
+   "final": [
+    "piano"
+   ],
+   "why": "The first letters of the five answers spell PIANO."
+  }
+ },
+ "2026-11-17": {
+  "n": 9,
+  "riddle": {
+   "q": "What has an eye but cannot see?",
+   "a": [
+    "a hurricane",
+    "a needle",
+    "a potato",
+    "hurricane",
+    "needle",
+    "needles",
+    "potato",
+    "storm"
+   ],
+   "display": "needle",
+   "hints": [
+    "I'm used in sewing.",
+    "Thread goes through my eye.",
+    "Sharp at one end."
+   ],
+   "why": "A needle's eye is the hole for the thread. (A hurricane, a potato and a storm also work, and we accept them.)",
+   "trivia": "Bone needles with eyes have been found that are more than 40,000 years old.",
+   "difficulty": 1,
+   "category": "kids"
+  },
+  "rebus": {
+   "q": "🧠 + 🌩️",
+   "a": [
+    "brain storm",
+    "brainstorm",
+    "brainstorming"
+   ],
+   "display": "brainstorm",
+   "hints": [
+    "What you do in a meeting.",
+    "Brain + weather.",
+    "Ideas, fast."
+   ],
+   "why": "Brain + storm = 'brainstorm'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Pet that purrs",
+     "a": [
+      "cat"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "What fish live in",
+     "a": [
+      "water"
+     ]
+    },
+    {
+     "q": "Opposite of day",
+     "a": [
+      "night"
+     ]
+    }
+   ],
+   "final": [
+    "crown"
+   ],
+   "why": "The first letters of the five answers spell CROWN."
+  }
+ },
+ "2026-11-18": {
+  "n": 10,
+  "riddle": {
+   "q": "What breaks yet never falls, and what falls yet never breaks?",
+   "a": [
+    "dawn and nightfall",
+    "day and night",
+    "day night",
+    "day, night",
+    "daybreak and nightfall",
+    "night and day"
+   ],
+   "display": "day and night",
+   "hints": [
+    "Two answers, one each.",
+    "One happens every morning, the other every evening.",
+    "Daybreak and…"
+   ],
+   "why": "Day breaks and night falls.",
+   "trivia": "At the equator, 'day' and 'night' are almost exactly twelve hours each all year round.",
+   "difficulty": 3,
+   "category": "wordplay"
+  },
+  "rebus": {
+   "q": "🍯 + 🌙",
+   "a": [
+    "honey moon",
+    "honeymoon"
+   ],
+   "display": "honeymoon",
+   "hints": [
+    "After a wedding.",
+    "Honey + …",
+    "A trip for two."
+   ],
+   "why": "Honey + moon = 'honeymoon'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Earth's natural satellite",
+     "a": [
+      "moon"
+     ]
+    },
+    {
+     "q": "What you carry in the rain",
+     "a": [
+      "umbrella"
+     ]
+    },
+    {
+     "q": "The star we orbit",
+     "a": [
+      "sun"
+     ]
+    },
+    {
+     "q": "Frozen water",
+     "a": [
+      "ice"
+     ]
+    },
+    {
+     "q": "Pet that purrs",
+     "a": [
+      "cat"
+     ]
+    }
+   ],
+   "final": [
+    "music"
+   ],
+   "why": "The first letters of the five answers spell MUSIC."
+  }
+ },
+ "2026-11-19": {
+  "n": 11,
+  "riddle": {
+   "q": "I am not alive, but I grow. I don't have lungs, but I need air. I don't have a mouth, but water kills me. What am I?",
+   "a": [
+    "a fire",
+    "a flame",
+    "fire",
+    "flame"
+   ],
+   "display": "fire",
+   "hints": [
+    "I'm hot.",
+    "I'm useful in a fireplace and dangerous in a forest.",
+    "Water puts me out."
+   ],
+   "why": "Fire grows, needs oxygen and is extinguished by water.",
+   "trivia": "Humans have controlled fire for at least a million years.",
+   "difficulty": 2,
+   "category": "classic"
+  },
+  "rebus": {
+   "q": "⏰ + 🐝",
+   "a": [
+    "2 b",
+    "2b",
+    "alarm bee",
+    "to be",
+    "to bee"
+   ],
+   "display": "alarm bee",
+   "hints": [
+    "It's not the obvious word.",
+    "Say the time and the bug.",
+    "…or not to be."
+   ],
+   "why": "A clock showing 2 + bee = '2 B' = 'to be'.",
+   "difficulty": 4
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Precious yellow metal",
+     "a": [
+      "gold"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Pet that purrs",
+     "a": [
+      "cat"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    }
+   ],
+   "final": [
+    "grace"
+   ],
+   "why": "The first letters of the five answers spell GRACE."
+  }
+ },
+ "2026-11-20": {
+  "n": 12,
+  "riddle": {
+   "q": "What has many teeth but cannot bite?",
+   "a": [
+    "a comb",
+    "a gear",
+    "a saw",
+    "a zipper",
+    "comb",
+    "combs",
+    "gear",
+    "saw",
+    "zipper"
+   ],
+   "display": "comb",
+   "hints": [
+    "I'm in your bathroom.",
+    "I help with your hair.",
+    "Run me through tangles."
+   ],
+   "why": "A comb has teeth it never bites with. Zippers, saws and gears also qualify, and we accept them.",
+   "trivia": "The oldest combs found are about 5,000 years old, from Persia.",
+   "difficulty": 1,
+   "category": "kids"
+  },
+  "rebus": {
+   "q": "🐱 + 🐟 ➡️ 🎣",
+   "a": [
+    "cat fish",
+    "catfish",
+    "catfishing"
+   ],
+   "display": "catfish",
+   "hints": [
+    "A fish with whiskers, or an online deception.",
+    "Cat + fish.",
+    "Also a dating-app warning."
+   ],
+   "why": "Cat + fish = 'catfish'.",
+   "difficulty": 2
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Where the heart is, they say",
+     "a": [
+      "home"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "Opposite of day",
+     "a": [
+      "night"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    },
+    {
+     "q": "Colour of a banana",
+     "a": [
+      "yellow"
+     ]
+    }
+   ],
+   "final": [
+    "honey"
+   ],
+   "why": "The first letters of the five answers spell HONEY."
+  }
+ },
+ "2026-11-21": {
+  "n": 13,
+  "riddle": {
+   "q": "Forward I am heavy, backward I am not. What am I?",
+   "a": [
+    "a ton",
+    "ton"
+   ],
+   "display": "ton",
+   "hints": [
+    "I'm a unit of weight.",
+    "Spell me backwards.",
+    "Three letters."
+   ],
+   "why": "'Ton' spelled backwards is 'not'.",
+   "trivia": "A metric tonne is 1,000 kg; a US ton is 907 kg; a UK ton is 1,016 kg. Nobody agrees.",
+   "difficulty": 3,
+   "category": "wordplay"
+  },
+  "rebus": {
+   "q": "🌍 + 🥤",
+   "a": [
+    "world cup",
+    "worldcup"
+   ],
+   "display": "world cup",
+   "hints": [
+    "A tournament.",
+    "World + what you drink from.",
+    "Every four years."
+   ],
+   "why": "World + cup = 'World Cup'.",
+   "difficulty": 2
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    },
+    {
+     "q": "Earth's natural satellite",
+     "a": [
+      "moon"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "Opposite of day",
+     "a": [
+      "night"
+     ]
+    }
+   ],
+   "final": [
+    "lemon"
+   ],
+   "why": "The first letters of the five answers spell LEMON."
+  }
+ },
+ "2026-11-22": {
+  "n": 14,
+  "riddle": {
+   "q": "What word becomes shorter when you add two letters to it?",
+   "a": [
+    "short",
+    "the word short"
+   ],
+   "display": "short",
+   "hints": [
+    "The answer is a word about length.",
+    "Add 'er'.",
+    "Short + er."
+   ],
+   "why": "Add 'er' to 'short' and it becomes 'shorter'.",
+   "trivia": "English has about 170,000 words in current use; most adults know 20,000–35,000 of them.",
+   "difficulty": 3,
+   "category": "wordplay"
+  },
+  "rebus": {
+   "q": "🔑 + ⌨️",
+   "a": [
+    "key board",
+    "keyboard"
+   ],
+   "display": "keyboard",
+   "hints": [
+    "Key + …",
+    "You type on it.",
+    "QWERTY."
+   ],
+   "why": "Key + board = 'keyboard'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Tall plant with a trunk",
+     "a": [
+      "tree"
+     ]
+    },
+    {
+     "q": "Frozen water",
+     "a": [
+      "ice"
+     ]
+    },
+    {
+     "q": "Precious yellow metal",
+     "a": [
+      "gold"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    }
+   ],
+   "final": [
+    "tiger"
+   ],
+   "why": "The first letters of the five answers spell TIGER."
+  }
+ },
+ "2026-11-23": {
+  "n": 15,
+  "riddle": {
+   "q": "I have branches but no fruit, trunk or leaves. What am I?",
+   "a": [
+    "a bank",
+    "bank",
+    "banks"
+   ],
+   "display": "bank",
+   "hints": [
+    "Money.",
+    "You might have an account with me.",
+    "I have many locations."
+   ],
+   "why": "A bank has branches.",
+   "trivia": "The word 'bank' comes from the Italian 'banco', the bench moneylenders sat at.",
+   "difficulty": 2,
+   "category": "wordplay"
+  },
+  "rebus": {
+   "q": "🦶 + ⚽",
+   "a": [
+    "foot ball",
+    "football",
+    "soccer"
+   ],
+   "display": "football",
+   "hints": [
+    "The world's game.",
+    "Foot + ball.",
+    "Also called soccer."
+   ],
+   "why": "Foot + ball = 'football'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Pet that purrs",
+     "a": [
+      "cat"
+     ]
+    },
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "What you carry in the rain",
+     "a": [
+      "umbrella"
+     ]
+    },
+    {
+     "q": "Pet that barks",
+     "a": [
+      "dog"
+     ]
+    }
+   ],
+   "final": [
+    "cloud"
+   ],
+   "why": "The first letters of the five answers spell CLOUD."
+  }
+ },
+ "2026-11-24": {
+  "n": 16,
+  "riddle": {
+   "q": "What can fill a room but takes up no space?",
+   "a": [
+    "air",
+    "light",
+    "music",
+    "sound"
+   ],
+   "display": "light",
+   "hints": [
+    "Flip a switch.",
+    "I'm gone the moment you turn me off.",
+    "Sunlight does it too."
+   ],
+   "why": "Light fills a room without occupying space. We also accept sound, air and music.",
+   "trivia": "Light from the sun takes about 8 minutes and 20 seconds to reach your room.",
+   "difficulty": 2,
+   "category": "classic"
+  },
+  "rebus": {
+   "q": "🧈 + 🪰",
+   "a": [
+    "butter fly",
+    "butterfly"
+   ],
+   "display": "butterfly",
+   "hints": [
+    "An insect.",
+    "Butter + …",
+    "It was a caterpillar."
+   ],
+   "why": "Butter + fly = 'butterfly'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Animal with a bushy red tail",
+     "a": [
+      "fox"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Yellow fruit monkeys love",
+     "a": [
+      "banana"
+     ]
+    },
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    }
+   ],
+   "final": [
+    "fable"
+   ],
+   "why": "The first letters of the five answers spell FABLE."
+  }
+ },
+ "2026-11-25": {
+  "n": 17,
+  "riddle": {
+   "q": "If you drop me I'm sure to crack, but give me a smile and I'll always smile back. What am I?",
+   "a": [
+    "a mirror",
+    "mirror",
+    "mirrors"
+   ],
+   "display": "mirror",
+   "hints": [
+    "I show you something familiar.",
+    "Seven years' bad luck.",
+    "Reflect on it."
+   ],
+   "why": "A mirror cracks when dropped and reflects your smile.",
+   "trivia": "Silver-backed glass mirrors were invented in Germany in 1835.",
+   "difficulty": 1,
+   "category": "kids"
+  },
+  "rebus": {
+   "q": "🌧️ + ✔️",
+   "a": [
+    "rain check",
+    "raincheck"
+   ],
+   "display": "raincheck",
+   "hints": [
+    "An American idiom.",
+    "'Can I take a…'",
+    "Postpone politely."
+   ],
+   "why": "Rain + check = 'rain check'.",
+   "difficulty": 2
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Precious yellow metal",
+     "a": [
+      "gold"
+     ]
+    },
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "Frozen water",
+     "a": [
+      "ice"
+     ]
+    },
+    {
+     "q": "Pet that barks",
+     "a": [
+      "dog"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    }
+   ],
+   "final": [
+    "glide"
+   ],
+   "why": "The first letters of the five answers spell GLIDE."
+  }
+ },
+ "2026-11-26": {
+  "n": 18,
+  "riddle": {
+   "q": "A man looks at a painting and says, 'Brothers and sisters I have none, but that man's father is my father's son.' Who is in the painting?",
+   "a": [
+    "his son",
+    "son",
+    "the man's son",
+    "the speaker's son"
+   ],
+   "display": "his son",
+   "hints": [
+    "Work from the inside out.",
+    "'My father's son', with no siblings, is the speaker himself.",
+    "So the man in the painting's father is the speaker."
+   ],
+   "why": "'My father's son' with no siblings is the speaker. So the painting's subject has the speaker as a father: it's his son.",
+   "trivia": "This riddle has been printed since at least 1850 and still trips most people up on the first read.",
+   "difficulty": 4,
+   "category": "logic"
+  },
+  "rebus": {
+   "q": "🐴 + 👟",
+   "a": [
+    "horse shoe",
+    "horseshoe"
+   ],
+   "display": "horseshoe",
+   "hints": [
+    "Lucky.",
+    "Horse + …",
+    "Hang it above the door."
+   ],
+   "why": "Horse + shoe = 'horseshoe'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Yellow fruit monkeys love",
+     "a": [
+      "banana"
+     ]
+    },
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "Earth's natural satellite",
+     "a": [
+      "moon"
+     ]
+    }
+   ],
+   "final": [
+    "bloom"
+   ],
+   "why": "The first letters of the five answers spell BLOOM."
+  }
+ },
+ "2026-11-27": {
+  "n": 19,
+  "riddle": {
+   "q": "What has one head, one foot and four legs?",
+   "a": [
+    "a bed",
+    "bed",
+    "beds"
+   ],
+   "display": "bed",
+   "hints": [
+    "You spend a third of your life here.",
+    "Head, foot and legs are parts of furniture.",
+    "Sleep on it."
+   ],
+   "why": "A bed has a headboard, a footboard and four legs.",
+   "trivia": "The average person spends about 26 years of their life asleep.",
+   "difficulty": 2,
+   "category": "kids"
+  },
+  "rebus": {
+   "q": "🌟 + 🐟",
+   "a": [
+    "star fish",
+    "starfish"
+   ],
+   "display": "starfish",
+   "hints": [
+    "Lives in the sea.",
+    "Star + fish.",
+    "Five arms."
+   ],
+   "why": "Star + fish = 'starfish'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Earth's natural satellite",
+     "a": [
+      "moon"
+     ]
+    },
+    {
+     "q": "Yellow fruit monkeys love",
+     "a": [
+      "banana"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    }
+   ],
+   "final": [
+    "amber"
+   ],
+   "why": "The first letters of the five answers spell AMBER."
+  }
+ },
+ "2026-11-28": {
+  "n": 20,
+  "riddle": {
+   "q": "I shave every day, but my beard stays the same. What am I?",
+   "a": [
+    "a barber",
+    "barber",
+    "barbers"
+   ],
+   "display": "barber",
+   "hints": [
+    "It's a job.",
+    "Other people's beards.",
+    "Chair, cape, clippers."
+   ],
+   "why": "A barber shaves others every day.",
+   "trivia": "The barber's pole's red and white stripes date from when barbers also performed bloodletting.",
+   "difficulty": 2,
+   "category": "classic"
+  },
+  "rebus": {
+   "q": "🍳 + 🏠",
+   "a": [
+    "egg house",
+    "eggplant",
+    "greenhouse",
+    "house egg",
+    "pan house"
+   ],
+   "display": "eggplant",
+   "hints": [
+    "Not what you cook, but where.",
+    "Think of the pan's contents and a building.",
+    "Aubergine."
+   ],
+   "why": "Egg + plant (a plant-house is a greenhouse, but the intended answer is 'eggplant': egg + (plant)). We accept eggplant.",
+   "difficulty": 3
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Pet that purrs",
+     "a": [
+      "cat"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Opposite of day",
+     "a": [
+      "night"
+     ]
+    },
+    {
+     "q": "Pet that barks",
+     "a": [
+      "dog"
+     ]
+    },
+    {
+     "q": "Colour of a banana",
+     "a": [
+      "yellow"
+     ]
+    }
+   ],
+   "final": [
+    "candy"
+   ],
+   "why": "The first letters of the five answers spell CANDY."
+  }
+ },
+ "2026-11-29": {
+  "n": 21,
+  "riddle": {
+   "q": "What goes up but never comes down?",
+   "a": [
+    "age",
+    "my age",
+    "your age"
+   ],
+   "display": "age",
+   "hints": [
+    "Everyone has one.",
+    "It increases every birthday.",
+    "You can't get younger."
+   ],
+   "why": "Your age only ever increases.",
+   "trivia": "The oldest verified human lifespan is 122 years and 164 days.",
+   "difficulty": 1,
+   "category": "kids"
+  },
+  "rebus": {
+   "q": "🧊 + 🍦",
+   "a": [
+    "ice cream",
+    "icecream"
+   ],
+   "display": "ice cream",
+   "hints": [
+    "Dessert.",
+    "Ice + …",
+    "Scoops."
+   ],
+   "why": "Ice + cream = 'ice cream'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    },
+    {
+     "q": "Earth's natural satellite",
+     "a": [
+      "moon"
+     ]
+    },
+    {
+     "q": "Yellow fruit monkeys love",
+     "a": [
+      "banana"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    }
+   ],
+   "final": [
+    "ember"
+   ],
+   "why": "The first letters of the five answers spell EMBER."
+  }
+ },
+ "2026-11-30": {
+  "n": 22,
+  "riddle": {
+   "q": "I have lakes with no water, mountains with no stone and cities with no buildings. What am I?",
+   "a": [
+    "a globe",
+    "a map",
+    "globe",
+    "map"
+   ],
+   "display": "map",
+   "hints": [
+    "I'm flat, or round if I'm fancy.",
+    "North is usually at the top.",
+    "Unfold me."
+   ],
+   "why": "A map (or globe) depicts lakes, mountains and cities.",
+   "trivia": "Mercator's 1569 projection makes Greenland look as big as Africa; Africa is 14 times larger.",
+   "difficulty": 2,
+   "category": "classic"
+  },
+  "rebus": {
+   "q": "👂 + 💍",
+   "a": [
+    "ear ring",
+    "earring"
+   ],
+   "display": "earring",
+   "hints": [
+    "Jewellery.",
+    "Ear + ring.",
+    "Pierced."
+   ],
+   "why": "Ear + ring = 'earring'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Animal with a bushy red tail",
+     "a": [
+      "fox"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "The star we orbit",
+     "a": [
+      "sun"
+     ]
+    },
+    {
+     "q": "Tall plant with a trunk",
+     "a": [
+      "tree"
+     ]
+    }
+   ],
+   "final": [
+    "frost"
+   ],
+   "why": "The first letters of the five answers spell FROST."
+  }
+ },
+ "2026-12-01": {
+  "n": 23,
+  "riddle": {
+   "q": "What is seen in the middle of March and April that can't be seen at the beginning or end of either month?",
+   "a": [
+    "an r",
+    "letter r",
+    "r",
+    "the letter r"
+   ],
+   "display": "the letter r",
+   "hints": [
+    "Look at the words, not the calendar.",
+    "M-A-R-C-H. A-P-R-I-L.",
+    "One letter they share in the middle."
+   ],
+   "why": "The letter R is in the middle of 'March' and 'April'.",
+   "trivia": "In many English dialects, R at the end of a word isn't pronounced at all, which is why 'car' and 'ca' can sound alike.",
+   "difficulty": 3,
+   "category": "wordplay"
+  },
+  "rebus": {
+   "q": "🚪 + 🔔",
+   "a": [
+    "door bell",
+    "doorbell"
+   ],
+   "display": "doorbell",
+   "hints": [
+    "Ding dong.",
+    "Door + bell.",
+    "Press it."
+   ],
+   "why": "Door + bell = 'doorbell'.",
+   "difficulty": 1
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Frozen water",
+     "a": [
+      "ice"
+     ]
+    },
+    {
+     "q": "Red day in February",
+     "a": [
+      "valentine",
+      "valentines"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    },
+    {
+     "q": "Colour of a banana",
+     "a": [
+      "yellow"
+     ]
+    }
+   ],
+   "final": [
+    "ivory"
+   ],
+   "why": "The first letters of the five answers spell IVORY."
+  }
+ },
+ "2026-12-02": {
+  "n": 24,
+  "riddle": {
+   "q": "You see a boat filled with people. It has not sunk, but when you look again you don't see a single person on the boat. Why?",
+   "a": [
+    "all married",
+    "everyone is married",
+    "married",
+    "no single people",
+    "none of them are single",
+    "they are all married",
+    "they're married"
+   ],
+   "display": "they are all married",
+   "hints": [
+    "Read the question again, slowly.",
+    "What's another meaning of 'single'?",
+    "Nobody on the boat is single…"
+   ],
+   "why": "Every person on the boat is married, so there isn't a single person aboard.",
+   "trivia": "The world's largest cruise ship carries nearly 10,000 people, crew included.",
+   "difficulty": 4,
+   "category": "wordplay"
+  },
+  "rebus": {
+   "q": "🧲 + 🎥 ➡️ 🎬",
+   "a": [
+    "attraction",
+    "attractive movie",
+    "blockbuster",
+    "magnetic film"
+   ],
+   "display": "attraction",
+   "hints": [
+    "What a magnet does, in a cinema.",
+    "Also what you feel for someone.",
+    "Main… "
+   ],
+   "why": "Magnet (attraction) + film = 'main attraction' / 'attraction'. We accept 'attraction'.",
+   "difficulty": 4
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Sweet spread made from fruit",
+     "a": [
+      "jam",
+      "jelly"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "Colour of a banana",
+     "a": [
+      "yellow"
+     ]
+    }
+   ],
+   "final": [
+    "jolly"
+   ],
+   "why": "The first letters of the five answers spell JOLLY."
+  }
+ },
+ "2026-12-03": {
+  "n": 25,
+  "riddle": {
+   "q": "What has a neck but no head, and wears a cap?",
+   "a": [
+    "a bottle",
+    "bottle",
+    "bottles"
+   ],
+   "display": "bottle",
+   "hints": [
+    "I hold liquid.",
+    "I can be glass or plastic.",
+    "Twist my cap off."
+   ],
+   "why": "A bottle has a neck and a cap.",
+   "trivia": "The crown bottle cap was patented in 1892 and is still used today.",
+   "difficulty": 1,
+   "category": "kids"
+  },
+  "rebus": {
+   "q": "🐍 + 👁️",
+   "a": [
+    "snake eye",
+    "snake eyes",
+    "snakeeyes"
+   ],
+   "display": "snake eyes",
+   "hints": [
+    "Dice.",
+    "Two ones.",
+    "Snake + …"
+   ],
+   "why": "Snake + eyes = 'snake eyes', a roll of double ones.",
+   "difficulty": 2
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Royal man with a crown",
+     "a": [
+      "king"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    },
+    {
+     "q": "Earth's natural satellite",
+     "a": [
+      "moon"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    }
+   ],
+   "final": [
+    "karma"
+   ],
+   "why": "The first letters of the five answers spell KARMA."
+  }
+ },
+ "2026-12-04": {
+  "n": 26,
+  "riddle": {
+   "q": "I am an odd number. Take away a letter and I become even. What number am I?",
+   "a": [
+    "7",
+    "seven"
+   ],
+   "display": "seven",
+   "hints": [
+    "Spell the number out.",
+    "Remove the first letter.",
+    "S-even."
+   ],
+   "why": "'Seven' minus the S is 'even'.",
+   "trivia": "Seven is the most common 'random' number people pick when asked for a number between 1 and 10.",
+   "difficulty": 3,
+   "category": "math"
+  },
+  "rebus": {
+   "q": "🧍 + 🟰 + 🧍",
+   "a": [
+    "equal",
+    "equal rights",
+    "equality",
+    "equals",
+    "we are equal"
+   ],
+   "display": "equality",
+   "hints": [
+    "A value.",
+    "Person = person.",
+    "Fairness."
+   ],
+   "why": "Person equals person: equality.",
+   "difficulty": 3
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "What you carry in the rain",
+     "a": [
+      "umbrella"
+     ]
+    },
+    {
+     "q": "Opposite of day",
+     "a": [
+      "night"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    }
+   ],
+   "final": [
+    "lunar"
+   ],
+   "why": "The first letters of the five answers spell LUNAR."
+  }
+ },
+ "2026-12-05": {
+  "n": 27,
+  "riddle": {
+   "q": "Two fathers and two sons go fishing. Each catches one fish, yet they bring home only three fish. How?",
+   "a": [
+    "a grandfather his son and his grandson",
+    "grandfather father and son",
+    "grandfather father son",
+    "grandfather, father, son",
+    "there are only three people",
+    "they are grandfather father and son",
+    "three people"
+   ],
+   "display": "grandfather father and son",
+   "hints": [
+    "Count the people, not the roles.",
+    "One person can be both a father and a son.",
+    "Three generations."
+   ],
+   "why": "A grandfather, his son and his grandson: two fathers and two sons, but three people.",
+   "trivia": "The oldest fishing hooks ever found are about 23,000 years old, from Okinawa.",
+   "difficulty": 3,
+   "category": "logic"
+  },
+  "rebus": {
+   "q": "🌊 + 🏄 + 🌐",
+   "a": [
+    "surf the internet",
+    "surf the web",
+    "surfing the web",
+    "web surfing"
+   ],
+   "display": "surf the web",
+   "hints": [
+    "A 1990s phrase.",
+    "Wave, surfer, globe.",
+    "Browse."
+   ],
+   "why": "Surf + the web.",
+   "difficulty": 2
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Earth's natural satellite",
+     "a": [
+      "moon"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Opposite of day",
+     "a": [
+      "night"
+     ]
+    },
+    {
+     "q": "Precious yellow metal",
+     "a": [
+      "gold"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    }
+   ],
+   "final": [
+    "mango"
+   ],
+   "why": "The first letters of the five answers spell MANGO."
+  }
+ },
+ "2026-12-06": {
+  "n": 28,
+  "riddle": {
+   "q": "What building has the most stories?",
+   "a": [
+    "a library",
+    "libraries",
+    "library",
+    "the library"
+   ],
+   "display": "library",
+   "hints": [
+    "Not 'storeys'.",
+    "It's full of books.",
+    "Shh."
+   ],
+   "why": "A library has the most stories (books), not storeys (floors).",
+   "trivia": "The Library of Congress holds about 175 million items on roughly 838 miles of shelving.",
+   "difficulty": 2,
+   "category": "wordplay"
+  },
+  "rebus": {
+   "q": "☕ + 💤 ➡️ 😮",
+   "a": [
+    "awake",
+    "caffeine",
+    "coffee",
+    "coffee wakes you up",
+    "wake up"
+   ],
+   "display": "coffee wakes you up",
+   "hints": [
+    "What coffee does.",
+    "Sleep, then eyes open.",
+    "Caffeine."
+   ],
+   "why": "Coffee turns sleep into alertness: wake up.",
+   "difficulty": 2
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Opposite of day",
+     "a": [
+      "night"
+     ]
+    },
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "Yellow fruit monkeys love",
+     "a": [
+      "banana"
+     ]
+    },
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    }
+   ],
+   "final": [
+    "noble"
+   ],
+   "why": "The first letters of the five answers spell NOBLE."
+  }
+ },
+ "2026-12-07": {
+  "n": 29,
+  "riddle": {
+   "q": "I can be cracked, made, told and played. What am I?",
+   "a": [
+    "a joke",
+    "joke",
+    "jokes"
+   ],
+   "display": "joke",
+   "hints": [
+    "I'm meant to be funny.",
+    "Knock knock.",
+    "Punchline."
+   ],
+   "why": "You can crack, make, tell and play a joke.",
+   "trivia": "The oldest recorded joke, from Sumer around 1900 BC, is a fart joke.",
+   "difficulty": 2,
+   "category": "classic"
+  },
+  "rebus": {
+   "q": "🎩 + 🐇",
+   "a": [
+    "abracadabra",
+    "magic",
+    "magic trick",
+    "magician",
+    "rabbit in a hat"
+   ],
+   "display": "magic",
+   "hints": [
+    "Abracadabra.",
+    "Hat + rabbit.",
+    "A trick."
+   ],
+   "why": "A hat and a rabbit: magic.",
+   "difficulty": 2
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Vast body of salt water",
+     "a": [
+      "ocean"
+     ]
+    },
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    },
+    {
+     "q": "Frozen water",
+     "a": [
+      "ice"
+     ]
+    },
+    {
+     "q": "Red day in February",
+     "a": [
+      "valentine",
+      "valentines"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    }
+   ],
+   "final": [
+    "olive"
+   ],
+   "why": "The first letters of the five answers spell OLIVE."
+  }
+ },
+ "2026-12-08": {
+  "n": 30,
+  "riddle": {
+   "q": "What runs all around a backyard yet never moves?",
+   "a": [
+    "a fence",
+    "fence",
+    "fences"
+   ],
+   "display": "fence",
+   "hints": [
+    "I'm wooden or wire.",
+    "I mark a boundary.",
+    "Good ones make good neighbours."
+   ],
+   "why": "A fence runs around the yard without moving.",
+   "trivia": "The 'good fences make good neighbors' line comes from Robert Frost's 1914 poem 'Mending Wall', which argues the opposite.",
+   "difficulty": 1,
+   "category": "kids"
+  },
+  "rebus": {
+   "q": "🧱 + 🧱 + 🧱 + 🚪",
+   "a": [
+    "a wall",
+    "brick wall",
+    "building",
+    "house",
+    "wall"
+   ],
+   "display": "wall",
+   "hints": [
+    "Bricks around a door.",
+    "What keeps the outside out.",
+    "Humpty sat on one."
+   ],
+   "why": "Bricks and a door make a wall.",
+   "difficulty": 2
+  },
+  "chain": {
+   "clues": [
+    {
+     "q": "Large flightless bird in a tuxedo",
+     "a": [
+      "penguin"
+     ]
+    },
+    {
+     "q": "The planet we live on",
+     "a": [
+      "earth"
+     ]
+    },
+    {
+     "q": "Red or green fruit that keeps doctors away",
+     "a": [
+      "apple"
+     ]
+    },
+    {
+     "q": "Water falling from clouds",
+     "a": [
+      "rain"
+     ]
+    },
+    {
+     "q": "Big cat with a mane",
+     "a": [
+      "lion"
+     ]
+    }
+   ],
+   "final": [
+    "pearl"
+   ],
+   "why": "The first letters of the five answers spell PEARL."
+  }
+ }
+}
